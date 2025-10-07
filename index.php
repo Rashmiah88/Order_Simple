@@ -111,5 +111,7 @@
 	
 </div>
 </body>
-<footer><center>Thanks to Neovic | Brought To You By code-projects.org</center></footer>
+<footer><center><footer><center>Copyright @ 2024 with Easy Living. All Rights Reserved.</center></footer>
+</center></footer>
+
 </html>
